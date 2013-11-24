@@ -52,6 +52,10 @@ _Content_
 * Protecting downloads with password
 * Creating special pages
 
+Downloading
+-----------
+
+See [Wiki](/wiki)
 
 
 Contributing
