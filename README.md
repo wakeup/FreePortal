@@ -55,7 +55,7 @@ _Content_
 Downloading
 -----------
 
-See [Wiki](/wiki)
+See [Wiki](https://github.com/wakeup/FreePortal/wiki)
 
 
 Contributing
