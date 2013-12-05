@@ -1,7 +1,8 @@
 FreePortal
 ==========
 
-FreePortal, A Free, Highly Customizable Open Source PHP Portal
+English: FreePortal, A Free, Highly Customizable, Lightweight Open Source PHP Portal
+Türkçe: FreePortal, Ücretsiz, Büyük Ölçüde Özelleştirilebilir, Hafif Açık Kaynak Bir PHP Portalı
 
 Features
 --------
